@@ -1,0 +1,12 @@
+ALERT: TRANSACTION FLAGGED BY GATEWAY
+Order ID: ORD-9769
+Customer ID: CUST-101
+Amount: $115.02
+Customer Contact: sarah.jenkins@secure-corp-mail.com
+Payment Card: 4128-1663-8317-1185
+Shipping Address: 928 Market Street, San Francisco, CA
+Billing Address: 601 Fifth Avenue, New York, NY
+Shipping/Billing Match: No
+VPN Detected: Yes
+Failed Payment Attempts (Past 24h): 1
+Flagged Timestamp: 2026-09-20T10:45:27.125597+00:00

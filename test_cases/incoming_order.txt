@@ -1,0 +1,12 @@
+ALERT: TRANSACTION FLAGGED BY GATEWAY
+Order ID: ORD-9760
+Customer ID: CUST-202
+Amount: $91.12
+Customer Contact: michael.chang@secure-corp-mail.com
+Payment Card: 4128-2707-2688-2452
+Shipping Address: 962 Market Street, San Francisco, CA
+Billing Address: 666 Fifth Avenue, New York, NY
+Shipping/Billing Match: No
+VPN Detected: Yes
+Failed Payment Attempts (Past 24h): 3
+Flagged Timestamp: 2026-09-20T09:28:23.364379+00:00
